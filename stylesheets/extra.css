@@ -1,0 +1,19 @@
+:root {
+    --md-primary-fg-color: #C2B7AC;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #C2B7AC;
+}
+
+/* .md-tabs__link {
+    color: #000000;
+  }
+  
+  .md-tabs__link:hover {
+    color: #ff6400;
+  }
+  
+  .md-tabs__link--active {
+    color: #ff00a2;
+  } */
